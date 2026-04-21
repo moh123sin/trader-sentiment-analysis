@@ -23,6 +23,12 @@ The analysis is based on two datasets:
 - Extreme Fear conditions lead to weak performance
 - Trade size and activity vary based on sentiment
 
+## Strategy Recommendations
+
+- Trade more selectively during Extreme Fear periods, since both win rate and profitability appear weaker in highly negative sentiment.
+- During Fear periods, position sizing should be controlled more carefully because larger trade sizes may increase risk even when total PnL is high.
+- Extreme Greed periods appear to show stronger average performance, so these conditions may be better for higher-conviction setups.
+
 ## Tools Used
 - Python
 - Pandas
